@@ -3,7 +3,7 @@ Run command:
 
 python temp1.py
 
-Refer temp.py file for actual working code.
+Refer temp1.py file for actual working code.
 
 
 ![calculator](calculator.png)
